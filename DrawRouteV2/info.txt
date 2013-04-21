@@ -1,0 +1,5 @@
+Open the application/library available in below location and add it as library for your project in order to avoid errors while compling.
+
+..\sdk\extras\google\google_play_services\libproject\google-play-services_lib
+
+Also create a API Key and replace it in AndroidManifeast.xml 
